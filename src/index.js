@@ -1,0 +1,9 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import SeasonDisplay from './SeasonDisplay';
+
+const App = () => {
+    return <div>Sup bro</div>
+};
+
+ReactDOM.render(<App />,document.querySelector('#root'));
